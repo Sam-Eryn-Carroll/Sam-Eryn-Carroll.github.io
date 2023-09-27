@@ -11711,6 +11711,7 @@ body {
   text-decoration: none;
   border: 0;
   flex: 0 0 auto !important;
+  width: 100% !important;
   color: white !important;
   background: green !important;
   margin-bottom: 0 !important;
